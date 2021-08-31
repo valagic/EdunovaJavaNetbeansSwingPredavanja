@@ -5,7 +5,7 @@
  */
 package polaznik24jp;
 
-import edunova.jp24.util.HibernateUtil;
+import polaznik24.util.HibernateUtil;
 
 /**
  *
