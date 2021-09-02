@@ -48,6 +48,9 @@
         
         <mapping class="polaznik24.vjezbanjemapiranje.prilagodeno.Mobitel" />
         <mapping class="polaznik24.vjezbanjemapiranje.prilagodeno.Ucionica" />
+        
+         <mapping class="polaznik24.vjezbanjemapiranje.nasljedivanje.Bicikl" />
+          <mapping class="polaznik24.vjezbanjemapiranje.nasljedivanje.Automobil" />
 
          
     </session-factory>
